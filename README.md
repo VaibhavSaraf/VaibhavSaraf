@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FVaibhavSaraf)
 - 💻 I’m undergraduate in Computer Engineer
 - 📚 I’m currently working on Machine Learning!
 - 👯 I’m looking to collaborate on open source projects.
